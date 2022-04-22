@@ -1,0 +1,2 @@
+Testi2 dosyamızı oluşturduk ve ilk defa bir şey yazıyoruz.
+	
